@@ -1,7 +1,7 @@
 name: DesaiDeas
 favicon: null
-layout_spectrum: 0.7097815843299031
-typography_spectrum: 0.8049953482113779
+layout_spectrum: 0.90034
+typography_spectrum: 0.55543
 title: 'Musings on the convergence of Business, Technology and Humanity'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8290695718023926
-  lightness: 0.5608219045680016
-  saturation: 0.12303547072224319
+    - '#000000'
+    - '#ed1e3a'
+    - '#bdbdbd'
+    - '#777777'
+    - '#2b2b2b'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.5625
   rhythmicContrast: 0.31310615851543844
 purpose: []

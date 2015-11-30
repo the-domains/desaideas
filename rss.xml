@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Musings on the convergence of Business, Technology and Humanity]]></title>
+        <description><![CDATA[Musings on the convergence of Business, Technology and Humanity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 22:15:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Humanity has invented brilliant technologies but rarely has the wisdom to implement it wisely.  </p>]]></description>
+            <link>undefined101882be-ffa9-422d-aea2-b09173628c30/index.html</link>
+            <guid isPermaLink="false">101882be-ffa9-422d-aea2-b09173628c30</guid>
+            <pubDate>Mon, 30 Nov 2015 22:15:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

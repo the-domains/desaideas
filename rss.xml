@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Musings on the convergence of Business, Technology and Humanity]]></title>
         <description><![CDATA[Musings on the convergence of Business, Technology and Humanity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/desaideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 22:15:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 22:33:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/desaideas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/profile_banners/462430932/1406644034/1500x500" alt="" title="">]]></description>
+            <link>https://pbs.twimg.com/profile_banners/462430932/1406644034/1500x500</link>
+            <guid isPermaLink="false">b91ddeba-e53f-4fb6-afd4-b8a2f70d25a8</guid>
+            <pubDate>Mon, 30 Nov 2015 22:32:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Humanity has invented brilliant technologies but rarely has the wisdom to implement it wisely.  </p>]]></description>
-            <link>undefined101882be-ffa9-422d-aea2-b09173628c30/index.html</link>
+            <link>https://thegrid.ai/desaideas/101882be-ffa9-422d-aea2-b09173628c30/index.html</link>
             <guid isPermaLink="false">101882be-ffa9-422d-aea2-b09173628c30</guid>
             <pubDate>Mon, 30 Nov 2015 22:15:26 GMT</pubDate>
         </item>
